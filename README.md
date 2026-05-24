@@ -1,85 +1,210 @@
-<h1 align="center">Hi 👋, I'm Ly Horng</h1>
-<h3 align="center">Flutter & Backend Developer from Cambodia 🇰🇭</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;NestJS+Backend+Developer;Mobile+App+Enthusiast;Always+Learning+New+Things" />
-</p>
+# 👋 Hi, I'm Ly Horng
 
----
+### 💻 Software Developer | Flutter Developer | Backend Developer
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Flutter+Developer;Backend+Developer;NestJS+%7C+PostgreSQL;Building+Modern+Applications" />
 
-- 🔭 Currently working on mobile & backend projects
-- 🌱 Learning advanced Flutter, NestJS, and system architecture
-- 💡 Interested in UI/UX and scalable backend systems
-- 📚 Passionate about software engineering and clean code
-- ⚡ Fun fact: I enjoy building modern app interfaces
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=LyhorngZz&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+```yaml
+name: Ly Horng
+role: Software Developer
 
-### Backend Development
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+specializations:
+  - Flutter Development
+  - Backend Development
+  - REST API Development
+  - Database Systems
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+currently_learning:
+  - Clean Architecture
+  - System Design
+  - Advanced Flutter
+  - Docker & Deployment
 
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyhorngZz&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhorngZz&layout=compact&theme=tokyonight" />
-</p>
+passion:
+  - Building modern applications
+  - Solving real-world problems
+  - Learning new technologies
+```
 
 ---
 
-## 🔥 GitHub Streak
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LyhorngZz&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+## 💻 Languages
 
-## 📌 Featured Projects
-
-### 📚 Library Management System
-Mobile application for browsing and managing books using Flutter + NestJS.
-
-### 📖 Book Collection Platform
-Responsive UI with filtering, categories, and backend API integration.
-
-### 🔐 Backend REST API
-Secure backend APIs with authentication and PostgreSQL database.
+<img src="https://skillicons.dev/icons?i=dart,ts,js,java,python" />
 
 ---
 
-## 🌐 Connect With Me
+## 📱 Mobile Development
 
-<p align="left">
-<a href="https://github.com/LyhorngZz" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=flutter" />
+
+---
+
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express" />
+
+---
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+
+---
+
+## 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LyhorngZz&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhorngZz&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LyhorngZz&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LyhorngZz&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LyhorngZz&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+## 📚 Library Management System
+
+Flutter + NestJS + PostgreSQL
+
+### Features
+- 📖 Book browsing system
+- 🔐 Authentication system
+- ❤️ Bookmark functionality
+- 🌐 REST API integration
+- 🔍 Search functionality
+- 📱 Responsive mobile UI
+
+---
+
+## 📖 Book Collection Platform
+
+Flutter + Backend API
+
+### Features
+- 📂 Category filtering
+- 📌 Sticky filter navigation
+- ⚡ Smooth scrolling
+- 🎨 Modern responsive design
+
+---
+
+## 🔐 Backend API System
+
+NestJS + PostgreSQL
+
+### Features
+- ⚙️ RESTful API architecture
+- 🛡️ DTO validation
+- 🔐 JWT authentication
+- 📦 CRUD operations
+- 🚀 Optimized backend performance
+
+---
+
+# 🌱 Currently Learning
+
+- Clean Architecture
+- Advanced Flutter UI
+- Docker & Deployment
+- System Design
+- Database Optimization
+
+---
+
+# 🎯 Goals
+
+- 🚀 Become a Full Stack Software Developer
+- 📱 Build scalable applications
+- 🌍 Contribute to open-source projects
+- 💼 Gain real-world experience
+
+---
+
+# 💡 Developer Mindset
+
+```cpp
+while(alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/LyhorngZz">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
-</p>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LyhorngZz&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+✨ Thanks for visiting my profile ✨
+
+</div>
