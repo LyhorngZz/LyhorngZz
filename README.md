@@ -16,6 +16,8 @@
 
 # 🚀 About Me
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ```yaml
 name: Ly Horng
 role: Software Developer
@@ -80,9 +82,9 @@ passion:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LyhorngZz&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LyhorngZz&show_icons=true&theme=tokyonight" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhorngZz&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhorngZz&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -92,7 +94,7 @@ passion:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LyhorngZz&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=LyhorngZz&theme=tokyonight" />
 
 </div>
 
