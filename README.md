@@ -23,13 +23,13 @@ name: Ly Horng
 role: Software Developer
 
 specializations:
-  - Web/Mobile Application Development
+  - Mobile Application Development
   - Backend Development
   - REST API Development
   - Database Systems
 
 current_focus:
-  - WebSite + Flutter Development
+  - Flutter Development
   - NestJS Backend
   - PostgreSQL Database
   - Clean Architecture
@@ -44,7 +44,6 @@ passion:
   - Building modern applications
   - Learning new technologies
   - Solving real-world problems
-
 <br clear="right"/>
 🛠️ Tech Stack
 <div align="center">
