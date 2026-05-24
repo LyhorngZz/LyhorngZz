@@ -82,9 +82,9 @@ passion:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LyhorngZz&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=LyhorngZz&show_icons=true&theme=github_dark" height="180"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhorngZz&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhorngZz&layout=compact&theme=github_dark" height="180"/>
 
 </div>
 
@@ -94,7 +94,7 @@ passion:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LyhorngZz&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=LyhorngZz&theme=github-dark-blue" />
 
 </div>
 
